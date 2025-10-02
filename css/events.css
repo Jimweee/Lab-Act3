@@ -29,7 +29,7 @@ html {
 body {
   font-family: var(--solway);
   line-height: 1.6;
-  background-image: url(img/home/seamless2.jpg);
+  background-image: url(../img/home/seamless2.jpg);
   background-size: 50%;
   background-attachment: fixed;
   background-position: center;
@@ -636,3 +636,4 @@ footer {
     }
 
 }
+
