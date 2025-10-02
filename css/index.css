@@ -29,7 +29,7 @@ html {
 body {
   font-family: var(--solway);
   line-height: 1.6;
-  background-image: url(/img/home/seamless2.jpg);
+  background-image: url(img/home/seamless2.jpg);
   background-size: 50%;
   background-attachment: fixed;
   background-position: center;
@@ -128,7 +128,7 @@ main {
   align-items: center;
   text-align: center;
   position: relative;
-  background-image: url(/img/home/pic\ 1.jpg);
+  background-image: url(img/home/pic\ 1.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -270,7 +270,7 @@ main {
 
 /* Favorites Section */
 .favorites-section {
-  background-image: url(/img/home/barfavbg.jpg);
+  background-image: url(img/home/barfavbg.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -442,7 +442,7 @@ main {
 
 /* Quote Section */
 .quote-section {
-  background-image: url(/img/home/quotebg.jpg);
+  background-image: url(img/home/quotebg.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -739,3 +739,4 @@ footer {
     display: none;
   }
 }
+
