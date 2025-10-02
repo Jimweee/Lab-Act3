@@ -134,7 +134,7 @@ main {
     align-items: center;
     text-align: center;
     position: relative;
-    background-image: url("./img/events/events page bg.jpg");
+    background-image: url("img/events/events page bg.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -636,5 +636,6 @@ footer {
     }
 
 }
+
 
 
